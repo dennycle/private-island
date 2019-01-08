@@ -1,9 +1,11 @@
 h1 {
-  color: red;
+  font-size: 80px;
+  color: green;
   text-align: center;
 }
 
 h2 {
+  font-size: 50px;
   font-style: bold;
   text-align: center;
 }
@@ -14,6 +16,11 @@ p {
 }
 
 h3 {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+body {
+  background-color: skyblue;
+
 }
