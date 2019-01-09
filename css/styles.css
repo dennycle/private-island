@@ -1,7 +1,8 @@
 h1 {
   font-size: 80px;
-  color: green;
+  color: blue;
   text-align: center;
+  font-family: fantasy;
 }
 
 h2 {
@@ -11,11 +12,15 @@ h2 {
 }
 
 p {
+  text-align: center;
   font-family: sans-serif;
   font-weight: 400px;
 }
 
 h3 {
+  text-align: center;
+  list: center;
+  color: mediumorchid;
   font-size: 40px;
   line-height: 60px;
 }
